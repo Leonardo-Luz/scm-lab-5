@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-// feature/leo branch
+// merged main branch
 int main() {
-  printf("Hello World from Leo");
+  printf("Hello World from Leo and Osório");
 
   return 0;
 }
