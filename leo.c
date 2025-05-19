@@ -2,7 +2,7 @@
 
 // feature/leo branch
 int main() {
-  printf("Hello World from Leo");
+  printf("Ola mundo!");
 
   return 0;
 }
